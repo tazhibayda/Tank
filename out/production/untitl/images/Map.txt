@@ -1,0 +1,14 @@
+12
+B B B B B B S S S S S B
+S T T T T T B 0 0 0 0 S
+S T W T W T B 0 0 0 0 S
+S T T T T T B 0 W W W S
+S T W T W T B 0 0 0 0 S
+S T T T T T B B B B 0 S
+S 0 0 0 0 0 0 0 0 0 P S
+S 0 0 0 0 0 0 0 0 T T S
+S 0 0 0 0 0 0 0 0 0 0 S
+S W W W 0 0 0 0 0 0 0 S
+S T T T T 0 0 0 0 0 0 S
+S S S S S S S S S S S S
+

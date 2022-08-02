@@ -1,0 +1,9 @@
+8
+S S S S S S S S
+S 0 0 0 0 0 P S
+S 0 0 0 0 0 0 S
+S 0 0 0 0 0 0 S
+S 0 0 0 0 0 0 S
+S 0 0 0 0 0 0 S
+S 0 0 0 0 0 0 S
+S S S S S S S S
